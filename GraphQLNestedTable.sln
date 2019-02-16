@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQLGraphTypeFirstNestedTable", "GraphQLGraphTypeFirstNestedTable\GraphQLGraphTypeFirstNestedTable.csproj", "{E901CF33-4FBD-4F68-A40C-0314D07C9AF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E901CF33-4FBD-4F68-A40C-0314D07C9AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E901CF33-4FBD-4F68-A40C-0314D07C9AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E901CF33-4FBD-4F68-A40C-0314D07C9AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E901CF33-4FBD-4F68-A40C-0314D07C9AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81DA48B2-FE81-4D12-B4B4-0DC45D5FE5CC}
+	EndGlobalSection
+EndGlobal
